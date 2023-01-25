@@ -1,0 +1,4 @@
+1. Design Patterns: Elements of Reusable Object-Oriented Software 1st Edition
+by Erich Gamma , Richard Helm , Ralph Johnson
+2. Design Patterns in C# (Software Patterns (Paperback)) 1st Edition
+by Steven Metsker
